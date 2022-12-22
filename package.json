@@ -18,7 +18,7 @@
     "class",
     "instance"
   ],
-  "author": "Marcell Kiss",
+  "author": "Marcell Kiss <hello@marcell.tech> (https://marcell.tech/)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/marcellkiss/jest-mock-instance/issues"
