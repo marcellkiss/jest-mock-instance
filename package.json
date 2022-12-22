@@ -1,0 +1,31 @@
+{
+  "name": "jest-mock-instance",
+  "version": "1.0.0",
+  "description": "Create mocked instances from classes, where all methods are mocked by jes.fn()",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcellkiss/jest-mock-instance.git"
+  },
+  "keywords": [
+    "jest",
+    "mock",
+    "class",
+    "instance"
+  ],
+  "author": "Marcell Kiss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcellkiss/jest-mock-instance/issues"
+  },
+  "homepage": "https://github.com/marcellkiss/jest-mock-instance#readme",
+  "dependencies": {
+    "jest": "^29.3.1",
+    "typescript": "^4.9.4"
+  }
+}
